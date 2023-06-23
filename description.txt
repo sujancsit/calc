@@ -1,0 +1,5 @@
+This is doc for program
+you can add
+you can sub
+you can div
+you can mul
